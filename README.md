@@ -1,4 +1,4 @@
-# n8n-AI-Driven-Assignment-Evaluation-and-Scoring-System
+# AI Driven Assignment Evaluation and Scoring System using n8n + telegram
 
 This repo contains an automated workflow built with **n8n**, designed to evaluate student assignments pdf's submitted in ZIP format. The system extracts question–answer pairs, sends them to an AI model for scoring, and replies to the user with a detailed evaluation.
 
@@ -52,5 +52,5 @@ This repo contains an automated workflow built with **n8n**, designed to evaluat
 ---
 
 ## **Demo Video**
-[Youtube](https://youtu.be/VdH-95WszsY)
+## [Video](https://youtu.be/VdH-95WszsY)
 
